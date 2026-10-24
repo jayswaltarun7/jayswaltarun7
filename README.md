@@ -1,4 +1,5 @@
 👋 Hi, I'm Tarun Jayswal
+
 🎓 BCA Student | Tech Enthusiast | Problem Solver
 
 💻 Skills
@@ -7,6 +8,7 @@ HTML, CSS, JavaScript
 Python, C++
 Git & GitHub
 Data Structures and Algorithms
+
 🚀 Currently Learning
 
 Full Stack Development
