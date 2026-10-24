@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Tarun Jayswal
+🎓 BCA Student | Tech Enthusiast | Problem Solver
 
-<!--
-**jayswaltarun7/jayswaltarun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills
 
-Here are some ideas to get you started:
+HTML, CSS, JavaScript
+Python, C++
+Git & GitHub
+Data Structures and Algorithms
+🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Development
+Competitive Programming
+📈 Goals for 2026
+
+Build 3+ real-world projects
+Improve LeetCode & Codeforces ratings
+Contribute to open-source
+
+✨ “Turning ideas into code and code into impact.”
